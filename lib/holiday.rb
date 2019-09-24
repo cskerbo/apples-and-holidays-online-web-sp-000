@@ -75,4 +75,5 @@ def all_holidays_with_bbq(holiday_hash)
         array.flatten
       end
     end
+  end
 end
